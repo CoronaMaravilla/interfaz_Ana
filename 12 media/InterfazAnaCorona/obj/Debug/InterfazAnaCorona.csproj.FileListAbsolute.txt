@@ -1,0 +1,11 @@
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\bin\Debug\InterfazAnaCorona.exe.config
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\bin\Debug\InterfazAnaCorona.exe
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\bin\Debug\InterfazAnaCorona.pdb
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.csproj.AssemblyReference.cache
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.csproj.SuggestedBindingRedirects.cache
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.Form1.resources
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.Properties.Resources.resources
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.csproj.GenerateResource.cache
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.csproj.CoreCompileInputs.cache
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.exe
+C:\Users\kanez\OneDrive\Escritorio\12 media\InterfazAnaCorona\obj\Debug\InterfazAnaCorona.pdb
